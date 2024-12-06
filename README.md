@@ -1,6 +1,4 @@
 ### Olá! Eu sou o Jocelito Climeres 👋
-
-- 🌱 Estudando Next.JS
   
 <br>
 
@@ -21,6 +19,7 @@
   <img align="center" alt="Jocelito-html" height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Jocelito-html" height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Jocelito-html" height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img align="center" alt="Jocelito-html" height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
 </div>
 
 ##
